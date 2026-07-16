@@ -55,57 +55,7 @@ I build software that survives contact with real business operations — role-ba
  
 </div>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:302B63&height=2&section=header"/>
-## 📊 GitHub Analytics
- 
-<div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Maaz-Bukhari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maaz-Bukhari&layout=compact&theme=tokyonight&hide_border=true" />
-<br/>
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Maaz-Bukhari&theme=tokyonight&hide_border=true" />
-<br/><br/>
- 
-<img src="https://github-profile-trophy.vercel.app/?username=Maaz-Bukhari&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
-</div>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:302B63&height=2&section=header"/>
-## 🚀 Featured Work
- 
-<table>
-<tr>
-<td width="50%" valign="top">
-### 🏪 StoreOS
-Full-featured POS, inventory, and accounting system — GRN flows, chart of accounts, journal entries, multi-role access.
- 
-`Next.js` `Node.js` `PostgreSQL` `TypeScript`
- 
-</td>
-<td width="50%" valign="top">
-### 💳 Payment Infrastructure
-Multi-gateway integrations across enterprise projects — Stripe, PayPal, Razorpay, Paddle, Braintree, with reconciliation and entitlement logic.
- 
-`Stripe` `Webhooks` `Node.js` `AWS`
- 
-</td>
-</tr>
-</table>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:302B63&height=2&section=header"/>
-## 💼 Experience
- 
-**Full-Stack Developer** · Qutham Technologies — *Jan 2023 – Present*
-Enterprise management, CRM, commerce, and healthcare platforms; role-based dashboards; REST/JWT/OAuth auth; AI-assisted automation; performance and CI/CD ownership.
- 
-**Frontend Developer** · Qutham Technologies — *Jan 2022 – Dec 2022*
-Production interfaces in Angular/React/TypeScript; reusable UI systems; REST API integration.
- 
-**Frontend Developer Intern** · Khan Technologies — *2021*
-Client-facing interfaces; REST integration; Git-based collaboration.
- 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:302B63&height=2&section=header"/>
-<div align="center">
-### 📬 Let's Build Something
- 
-<a href="https://www.linkedin.com/in/syed-maaz-0a5b08231/">
-  <img src="https://img.shields.io/badge/LinkedIn-Syed_Maaz_Bukhari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+
 <a href="https://maxshah.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-maxshah.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
