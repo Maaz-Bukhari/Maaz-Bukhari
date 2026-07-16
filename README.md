@@ -1,7 +1,7 @@
 <h1 align="center">Maaz Bukhari</h1>
 
 <p align="center">
-  <strong>Full-Stack Software Engineer</strong><br />
+  <strong>Full-Stack Developer</strong><br />
   Angular · React · Next.js · Node.js · TypeScript
 </p>
 
