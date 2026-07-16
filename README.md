@@ -27,8 +27,6 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:302B63&height=2&section=header"/>
-
 <div align="center">
 
 <picture>
