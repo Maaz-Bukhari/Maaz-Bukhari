@@ -21,7 +21,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:302B63&height=2&section=header"/>
 
 <div align="center">
-Contribution Graph
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Maaz-Bukhari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Maaz-Bukhari&theme=tokyonight&hide_border=true" />
