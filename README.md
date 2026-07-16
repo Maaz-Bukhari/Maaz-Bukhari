@@ -1,4 +1,4 @@
-<h1 align="center">Syed Maaz Bukhari</h1>
+<h1 align="center">Maaz Bukhari</h1>
 
 <p align="center">
   <strong>Full-Stack Software Engineer</strong><br />
