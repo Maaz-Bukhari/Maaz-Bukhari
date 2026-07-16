@@ -32,12 +32,12 @@ My experience includes enterprise management systems, HR and company operations 
 
 I focus on building software that is:
 
-* Maintainable and scalable
-* Responsive and accessible
-* Secure and role-aware
-* API-driven and data-intensive
-* Aligned with real business workflows
-* Ready for production environments
+- Maintainable and scalable
+- Responsive and accessible
+- Secure and role-aware
+- API-driven and data-intensive
+- Aligned with real business workflows
+- Ready for production environments
 
 I am currently targeting **high-impact international remote opportunities** and strong software engineering roles in Pakistan where I can contribute to serious products, own meaningful features, and help teams build reliable systems.
 
@@ -45,16 +45,16 @@ I am currently targeting **high-impact international remote opportunities** and 
 
 ## What I Do
 
-* Build complex frontend applications with Angular, React, Next.js, and TypeScript
-* Design reusable component systems and scalable frontend architecture
-* Develop REST APIs and backend services using Node.js and Express
-* Work with MongoDB, PostgreSQL, and MySQL
-* Implement authentication, authorization, role-based access, and secure workflows
-* Build dashboards, reports, data tables, forms, and approval processes
-* Integrate payment gateways, OAuth, file storage, notifications, and third-party APIs
-* Improve performance through lazy loading, code splitting, caching, and optimized rendering
-* Build AI-assisted workflows with structured outputs, document processing, summarization, and automation
-* Support products from requirements and architecture through implementation, testing, deployment, and production fixes
+- Build complex frontend applications with Angular, React, Next.js, and TypeScript
+- Design reusable component systems and scalable frontend architecture
+- Develop REST APIs and backend services using Node.js and Express
+- Work with MongoDB, PostgreSQL, and MySQL
+- Implement authentication, authorization, role-based access, and secure workflows
+- Build dashboards, reports, data tables, forms, and approval processes
+- Integrate payment gateways, OAuth, file storage, notifications, and third-party APIs
+- Improve performance through lazy loading, code splitting, caching, and optimized rendering
+- Build AI-assisted workflows with structured outputs, document processing, summarization, and automation
+- Support products from requirements and architecture through implementation, testing, deployment, and production fixes
 
 ---
 
@@ -100,57 +100,45 @@ I am currently targeting **high-impact international remote opportunities** and 
 
 ## Engineering Strengths
 
-| Area                    | What I Deliver                                                                                                            |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| Frontend Architecture   | Reusable component systems, route architecture, state management, responsive interfaces, accessibility, and performance   |
+| Area | What I Deliver |
+|---|---|
+| Frontend Architecture | Reusable component systems, route architecture, state management, responsive interfaces, accessibility, and performance |
 | Enterprise Applications | Role-based dashboards, data tables, reporting, approvals, operations, employee workflows, and internal management systems |
-| Full-Stack Delivery     | REST APIs, authentication, database integration, file handling, payments, third-party services, and deployment            |
-| Product Engineering     | Translating business requirements into maintainable workflows, technical architecture, and production-ready features      |
-| AI-Assisted Products    | Structured model outputs, document processing, summarization, task routing, review workflows, and business automation     |
-| Production Quality      | Error handling, loading states, caching, code splitting, debugging, testing, CI/CD, and deployment support                |
+| Full-Stack Delivery | REST APIs, authentication, database integration, file handling, payments, third-party services, and deployment |
+| Product Engineering | Translating business requirements into maintainable workflows, technical architecture, and production-ready features |
+| AI-Assisted Products | Structured model outputs, document processing, summarization, task routing, review workflows, and business automation |
+| Production Quality | Error handling, loading states, caching, code splitting, debugging, testing, CI/CD, and deployment support |
 
 ---
 
 ## Professional Experience
 
-### Full-Stack Developer
-
-**Qutham Technologies · Bahawalpur, Pakistan**
+### Full-Stack Developer  
+**Qutham Technologies · Bahawalpur, Pakistan**  
 **January 2023 – July 2026**
 
-* Delivered full-stack products across enterprise management, CRM, reporting, commerce, healthcare, and internal business operations.
-* Built role-based dashboards, multi-step forms, reporting systems, data-intensive tables, approval workflows, and reusable component architectures.
-* Integrated REST APIs, JWT and OAuth authentication, role-based authorization, third-party services, and state-driven frontend workflows.
-* Implemented AI and LLM-assisted capabilities for automation, summarization, structured information processing, and internal productivity.
-* Improved maintainability and performance through modular architecture, lazy loading, code splitting, caching, reusable components, and systematic debugging.
-* Contributed across requirements analysis, architecture, implementation, integration, deployment, production troubleshooting, and post-release improvements.
+- Delivered full-stack products across enterprise management, CRM, reporting, commerce, healthcare, and internal business operations.
+- Built role-based dashboards, multi-step forms, reporting systems, data-intensive tables, approval workflows, and reusable component architectures.
+- Integrated REST APIs, JWT and OAuth authentication, role-based authorization, third-party services, and state-driven frontend workflows.
+- Implemented AI and LLM-assisted capabilities for automation, summarization, structured information processing, and internal productivity.
+- Improved maintainability and performance through modular architecture, lazy loading, code splitting, caching, reusable components, and systematic debugging.
+- Contributed across requirements analysis, architecture, implementation, integration, deployment, production troubleshooting, and post-release improvements.
 
-### Frontend Developer
-
-**Qutham Technologies · Bahawalpur, Pakistan**
+### Frontend Developer  
+**Qutham Technologies · Bahawalpur, Pakistan**  
 **January 2022 – December 2022**
 
-* Developed responsive, production-ready interfaces using Angular, React, TypeScript, JavaScript, and Tailwind CSS.
-* Built reusable UI patterns for dashboards, forms, data tables, navigation, and administrative interfaces.
-* Integrated frontend applications with REST APIs and worked closely with backend engineers to resolve data, authentication, and workflow requirements.
-* Improved responsive behavior, usability, cross-browser consistency, and frontend maintainability.
+- Developed responsive, production-ready interfaces using Angular, React, TypeScript, JavaScript, and Tailwind CSS.
+- Built reusable UI patterns for dashboards, forms, data tables, navigation, and administrative interfaces.
+- Integrated frontend applications with REST APIs and worked closely with backend engineers to resolve data, authentication, and workflow requirements.
+- Improved responsive behavior, usability, cross-browser consistency, and frontend maintainability.
 
-### Software Engineering Intern
-
-**Qutham Technologies · Bahawalpur, Pakistan**
-**July 2021 – December 2021**
-
-* Supported enterprise application development using component-based frontend architecture.
-* Implemented responsive layouts, UI features, API integrations, and production fixes under code review.
-* Strengthened professional practices in Git workflows, debugging, reusable code, and collaborative delivery.
-
-### Frontend Developer Intern
-
-**Khan Technologies · Bahawalpur, Pakistan**
+### Frontend Developer Intern  
+**Khan Technologies · Bahawalpur, Pakistan**  
 **2021**
 
-* Built responsive client-facing interfaces using Angular, React, JavaScript, HTML, CSS, and Bootstrap.
-* Integrated REST APIs and contributed to reusable components, debugging, responsive implementation, and Git-based collaboration.
+- Built responsive client-facing interfaces using Angular, React, JavaScript, HTML, CSS, and Bootstrap.
+- Integrated REST APIs and contributed to reusable components, debugging, responsive implementation, and Git-based collaboration.
 
 ---
 
@@ -158,15 +146,15 @@ I am currently targeting **high-impact international remote opportunities** and 
 
 Much of my production work is private or covered by employer and client confidentiality. Representative areas include:
 
-* Enterprise management systems
-* HR and employee workflow platforms
-* Company operations and internal management software
-* SaaS products and multi-role applications
-* E-commerce and marketplace-style platforms
-* Healthcare and hospital management systems
-* Reporting dashboards and data-heavy admin interfaces
-* Authentication, authorization, payments, notifications, and integrations
-* AI/LLM-assisted document and operational workflows
+- Enterprise management systems
+- HR and employee workflow platforms
+- Company operations and internal management software
+- SaaS products and multi-role applications
+- E-commerce and marketplace-style platforms
+- Healthcare and hospital management systems
+- Reporting dashboards and data-heavy admin interfaces
+- Authentication, authorization, payments, notifications, and integrations
+- AI/LLM-assisted document and operational workflows
 
 I can discuss architecture, responsibilities, engineering decisions, and business workflows during interviews without exposing confidential source code or client data.
 
@@ -176,12 +164,12 @@ I can discuss architecture, responsibilities, engineering decisions, and busines
 
 I am currently strengthening my public engineering portfolio around:
 
-* Enterprise Angular architecture
-* Production-grade Node.js and TypeScript APIs
-* AI-assisted business operations
-* Multi-tenant SaaS systems
-* Reusable Angular engineering utilities
-* Testing, CI/CD, performance, and deployment quality
+- Enterprise Angular architecture
+- Production-grade Node.js and TypeScript APIs
+- AI-assisted business operations
+- Multi-tenant SaaS systems
+- Reusable Angular engineering utilities
+- Testing, CI/CD, performance, and deployment quality
 
 The goal is to make my public work reflect the same depth and responsibility as my professional experience.
 
@@ -189,8 +177,8 @@ The goal is to make my public work reflect the same depth and responsibility as 
 
 ## Education
 
-**Bachelor of Science in Computer Science**
-The Islamia University of Bahawalpur
+**Bachelor of Science in Computer Science**  
+The Islamia University of Bahawalpur  
 Completed June 2026
 
 ---
@@ -199,14 +187,14 @@ Completed June 2026
 
 I am open to:
 
-* Full-Stack Software Engineer roles
-* Frontend Engineer roles
-* Angular Developer roles
-* React and Next.js roles
-* TypeScript Engineer roles
-* Product Engineer roles
-* International remote opportunities
-* High-impact software engineering roles in Pakistan
+- Full-Stack Software Engineer roles
+- Frontend Engineer roles
+- Angular Developer roles
+- React and Next.js roles
+- TypeScript Engineer roles
+- Product Engineer roles
+- International remote opportunities
+- High-impact software engineering roles in Pakistan
 
 I am comfortable working with international teams and maintaining consistent remote availability across overlapping time zones.
 
