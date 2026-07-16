@@ -21,14 +21,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:302B63&height=2&section=header"/>
 
 <div align="center">
-### 📈 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maaz-Bukhari/Maaz-Bukhari/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/Maaz-Bukhari/Maaz-Bukhari/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<br/><br/>
+Contribution Graph
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Maaz-Bukhari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Maaz-Bukhari&theme=tokyonight&hide_border=true" />
@@ -39,9 +32,11 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/syed-maaz-0a5b08231/"><img src="https://img.shields.io/badge/LinkedIn-Syed_Maaz_Bukhari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://maxshah.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-maxshah.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maaz-Bukhari/Maaz-Bukhari/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/Maaz-Bukhari/Maaz-Bukhari/output/github-contribution-grid-snake.svg" />
+</picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302B63,100:0F0C29&height=120&section=footer"/>
+<br/><br/>
 
 </div>
