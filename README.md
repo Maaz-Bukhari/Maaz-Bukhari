@@ -22,43 +22,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:302B63&height=2&section=header"/>
 
-## 🚀 Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏪 StoreOS
-Full-stack POS, inventory, and accounting system — GRN flows, chart of accounts, journal entries, multi-role access, built for real retail operations.
-
-`Next.js` `Node.js` `PostgreSQL` `TypeScript`
-
-</td>
-<td width="50%" valign="top">
-
-### 💳 Payment Infrastructure
-Multi-gateway integration layer across enterprise projects — Stripe, PayPal, Razorpay, Paddle, Braintree — with reconciliation and entitlement logic.
-
-`Stripe` `Webhooks` `Node.js` `AWS`
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:302B63&height=2&section=header"/>
-
-## 💼 Experience
-
-**Full-Stack Developer** · Qutham Technologies — *Jan 2023 – Present*
-Enterprise, CRM, commerce, and healthcare platforms · role-based dashboards · REST/JWT/OAuth · AI-assisted automation · CI/CD ownership
-
-**Frontend Developer** · Qutham Technologies — *Jan 2022 – Dec 2022*
-Production interfaces in Angular/React/TypeScript · reusable UI systems · REST API integration
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:302B63&height=2&section=header"/>
-
-<div align="center">
-
 ### 📈 Contribution Graph
 
 <picture>
