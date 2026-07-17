@@ -6,7 +6,7 @@
 <a href="https://github.com/Maaz-Bukhari"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://maxshah.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-View_Work-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=8A63D2&center=true&vCenter=true&width=650&lines=4%2B+Years+%7C+Enterprise+Apps+%2C+SaaS+%2C+Payments;Building+production+software+that+ships" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=8A63D2&center=true&vCenter=true&width=900&lines=3%2B+Years+%7C+Full-Stack+Developer;Angular+%7C+React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Enterprise+Apps+%7C+SaaS+%7C+Commerce+%7C+AI+Workflows;Building+production+software+for+real+business+operations" />
 
 </div>
 
