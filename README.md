@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=280&section=header&text=Maaz%20Bukhari&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%C2%B7%20Next.js%20%C2%B7%20TypeScript%20%C2%B7%20AI%20Systems&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=280&section=header&text=Maaz%20Bukhari&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%C2%B7%20MEAN%20%C2%B7%20TypeScript%20%C2%B7%20AI%20Systems&descAlignY=58&descSize=18" />
 
 <a href="https://www.linkedin.com/in/syed-maaz-0a5b08231/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/Maaz-Bukhari"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
